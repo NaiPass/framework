@@ -27,5 +27,6 @@
     "psr-4": {
       "NaiPass\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev-master"
 }
