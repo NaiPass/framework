@@ -1,0 +1,31 @@
+{
+  "name": "naipass",
+  "description": "A lightweight PHP development framework",
+  "keywords": [
+    "NaiPass",
+    "NaiZui",
+    "php",
+    "framework"
+  ],
+  "homepage": "https://github.com/NaiPass/framework",
+  "type": "php-development-framework",
+  "license": "Apache-2.0",
+  "support": {
+    "issues": "https://github.com/NaiPass/framework/issues",
+    "source": "https://github.com/NaiPass/framework"
+  },
+  "authors": [
+    {
+      "name": "NaiZui",
+      "email": "chenxi2511@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "NaiPass\\": "src/"
+    }
+  }
+}
